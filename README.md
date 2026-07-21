@@ -255,37 +255,21 @@ Follow the same workflow for every investigation.
 
 ### Step 1 : Read and understand the business problem.
 
-### Step 2
+### Step 2 : Review the notebook structure before executing any queries.
 
-Review the notebook structure before executing any queries.
+### Step 3 : Execute the notebook sequentially.
 
-### Step 3
+### Step 4 : Understand the provided implementation and analytical logic.
 
-Execute the notebook sequentially.
+### Step 5 : Identify and resolve any issues encountered during the investigation.
 
-### Step 4
+### Step 6 : Complete the remaining analysis and validate the outputs.
 
-Understand the provided implementation and analytical logic.
+### Step 7 : Document business insights and recommendations.
 
-### Step 5
+### Step 8 : Commit your work to GitHub.
 
-Identify and resolve any issues encountered during the investigation.
-
-### Step 6
-
-Complete the remaining analysis and validate the outputs.
-
-### Step 7
-
-Document business insights and recommendations.
-
-### Step 8
-
-Commit your work to GitHub.
-
-### Step 9
-
-Proceed to the next investigation.
+### Step 9 : Proceed to the next investigation.
 
 > **Important:** Understanding the business context is just as important as writing SQL queries.
 
