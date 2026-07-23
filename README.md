@@ -22,7 +22,6 @@ Make sure you have:
 
 -   Databricks workspace access
 -   GitHub repository access
--   Discord/Graphy community access
 -   Internet connection
 -   3--4 hours available each day
 
@@ -104,14 +103,14 @@ The **StartHere** notebook contains all the instructions required before beginni
 
 # 📅 5-Day Investigation Schedule
 
-## Monday — Portfolio Health Investigation
+## Day 1 — Portfolio Health Investigation
 
 You will receive:
 
 * Databricks Workspace Access
 * GitHub Repository Access
 * Investigation Notebooks
-* Discord/Graphy Community Access
+
 
 ### Focus for the Day
 
@@ -122,7 +121,7 @@ You will receive:
 
 ---
 
-## Tuesday — Customer Risk Investigation
+## Day 2 — Customer Risk Investigation
 
 ### Focus for the Day
 
@@ -133,7 +132,7 @@ You will receive:
 
 ---
 
-## Wednesday — Time Analysis Investigation
+## Day 3 — Time Analysis Investigation
 
 ### Focus for the Day
 
@@ -144,7 +143,7 @@ You will receive:
 
 ---
 
-## Thursday — Genie AI Session
+## Day 4 — Genie AI Session
 
 Live instructor session covering:
 
@@ -157,7 +156,7 @@ Participants can compare manual and AI-assisted approaches using their completed
 
 ---
 
-## Friday — Dashboard Session & Final Presentation
+## Day 5 — Dashboard Session & Final Presentation
 
 Live session includes:
 
@@ -321,7 +320,6 @@ Throughout the Investigation Week, make use of:
 * StartHere Notebook
 * Investigation Notebooks
 * Live Instructor Sessions
-* Discord/Graphy Community
 
 Always review the notebook instructions before seeking assistance.
 
